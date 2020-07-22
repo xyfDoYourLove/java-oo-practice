@@ -1,0 +1,40 @@
+
+”"squid:ClassVariableVisibilityCheck"ZMake USER_MENU_TEXT a static final constant or non-public and provide accessors if needed.(Ì›™æÿÿÿÿÿ8Úùšä¶.
+;squid:S2386"Make this member "protected".(¤ãáá8Òø¾Ñ¶.
+;squid:S2386!"Make this member "protected".(éÎÕ¹8Ÿ¥Ëá¶.
+‹"squid:ClassVariableVisibilityCheck!"VMake ADMIN_MENU a static final constant or non-public and provide accessors if needed.(éÎÕ¹8×’›ä¶.
+Lsquid:S1444"/Make this "public static MAIN_MENU" field final(ééÆ8ö™ä¶.
+ssquid:S3008!"URename this field "ADMIN_MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÎÕ¹8×’›ä¶.
+"squid:ClassVariableVisibilityCheck"ZMake MAIN_MENU_TEXT a static final constant or non-public and provide accessors if needed.(»¨â³8Ğ±šä¶.
+;squid:S2386"Make this member "protected".(»¨â³8ı÷ÉÙ¶.
+Nsquid:S1444!"0Make this "public static ADMIN_MENU" field final(éÎÕ¹8×’›ä¶.
+ysquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ÈË–8®é—â¶.
+qsquid:S3008"TRename this field "MAIN_MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ééÆ8ö™ä¶.
+xsquid:S3008$"ZRename this field "ADMIN_MENU_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‡â 8ìÚ›ä¶.
+;squid:S2386$"Make this member "protected".(­‡â 8Ÿ¥Ëá¶.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿâİŠşÿÿÿÿ8ã–˜â¶.
+Msquid:S1444"/Make this "public static ORDER_MAP" field final(¤ãáá8†Ò™ä¶.
+tsquid:S3008"VRename this field "GROW_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åüÏ¥8¨Ù˜ä¶.
+Rsquid:S1444"4Make this "public static MAIN_MENU_TEXT" field final(»¨â³8Ğ±šä¶.
+‰"squid:ClassVariableVisibilityCheck"UMake MAIN_MENU a static final constant or non-public and provide accessors if needed.(ééÆ8ö™ä¶.
+]squid:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ8û¯Ûä¶.
+Œ"squid:ClassVariableVisibilityCheck"WMake GROW_FACTOR a static final constant or non-public and provide accessors if needed.(åüÏ¥8¨Ù˜ä¶.
+Š"squid:ClassVariableVisibilityCheck"UMake ORDER_MAP a static final constant or non-public and provide accessors if needed.(¤ãáá8†Ò™ä¶.
+rsquid:S3008"TRename this field "ORDER_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ãáá8†Ò™ä¶.
+Rsquid:S1444"/Make this "public static USER_MENU" field final(­‘‚Şøÿÿÿÿ8ßÊšä¶.
+|squid:S3008"YRename this field "USER_MENU_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì›™æÿÿÿÿÿ8Úùšä¶.
+@squid:S2386"Make this member "protected".(­‘‚Şøÿÿÿÿ8¼§Ù¶.
+Ssquid:S1444$"5Make this "public static ADMIN_MENU_TEXT" field final(­‡â 8ìÚ›ä¶.
+Wsquid:S1444"4Make this "public static USER_MENU_TEXT" field final(Ì›™æÿÿÿÿÿ8Úùšä¶.
+esquid:S11922"GDefine a constant instead of duplicating this literal "logOut" 3 times.(ËöùÀ8Ğ÷Šâ¶.
+wsquid:S3008"TRename this field "USER_MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‘‚Şøÿÿÿÿ8ßÊšä¶.
+:squid:S2386"Make this member "protected".(ééÆ8”ù‚Ù¶.
+wsquid:S3008"YRename this field "MAIN_MENU_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¨â³8Ğ±šä¶.
+@squid:S2386"Make this member "protected".(Ì›™æÿÿÿÿÿ8ª’ÓÙ¶.
+ysquid:S2068"V'Password' detected in this expression, review this potentially hard-coded credential.(ÿâİŠşÿÿÿÿ8ä­—â¶.
+Osquid:S1444"1Make this "public static GROW_FACTOR" field final(åüÏ¥8¨Ù˜ä¶.
+"squid:ClassVariableVisibilityCheck$"[Make ADMIN_MENU_TEXT a static final constant or non-public and provide accessors if needed.(­‡â 8ìÚ›ä¶.
+"squid:ClassVariableVisibilityCheck"UMake USER_MENU a static final constant or non-public and provide accessors if needed.(­‘‚Şøÿÿÿÿ8ßÊšä¶.
+gsquid:UselessImportCheck"7Remove this unused import 'com.twu.bean.HotSearchRank'.(À¿ıÀıÿÿÿÿ8Íã·.
+bsquid:UselessImportCheck"8Remove this unused import 'com.twu.bean.HotSearchEvent'.(ÚÒÒ<8Íã·.

@@ -1,0 +1,60 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(‘îÃÑùÿÿÿÿ8†ß¶.
+\
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(®ÕÜÕúÿÿÿÿ8¸£ËŒ·.
+\
+squid:S106×"9Replace this use of System.out or System.err by a logger.(úŞ šúÿÿÿÿ8´öÈŒ·.
+\
+squid:S106—"9Replace this use of System.out or System.err by a logger.(»²ç¶ûÿÿÿÿ8š†·.
+\
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ÛˆŠÿÿÿÿÿ8ÅÑª·.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(–›±p8ã—‰à¶.
+\
+squid:S106°"9Replace this use of System.out or System.err by a logger.(æÛ°Îøÿÿÿÿ8š†·.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ‰ñªüÿÿÿÿ8š†·.
+Hsquid:S5411Ö"*Use the primitive boolean expression here.(¨8¬ÌÈŒ·.
+V
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ÙÇ±ú8ÈÛø¶.
+Isquid:S5411ó"*Use the primitive boolean expression here.(®ñ€…8Ò¤Á·.
+U
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ü•¯&8€¦æà¶.
+Hsquid:S5411["*Use the primitive boolean expression here.(«Äƒ¶8¬œÍâ¶.
+Œ squid:ForLoopCounterChangedCheck‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8š†·.
+Xsquid:S2864œ"4Iterate over the "entrySet" instead of the "keySet".(È•ñøÿÿÿÿ8š†·.
+\
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Ó×ùÑûÿÿÿÿ8ŸêÃ·.
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(­’‰¡8¿òáâ¶.
+]squid:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(­×Ùƒ8š†·.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(»²ç¶ûÿÿÿÿ8š†·.
+Hsquid:S5411K"*Use the primitive boolean expression here.(ºËáÃ8¥Ââ¶.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(øÚ•Ëøÿÿÿÿ8ÚôÒà¶.
+Nsquid:S5411…"*Use the primitive boolean expression here.(³¹¢êùÿÿÿÿ8æ¬··.
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(­’‰¡8ğ§ßâ¶.
+\
+squid:S106£"9Replace this use of System.out or System.err by a logger.(‰ñöóıÿÿÿÿ8š†·.
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(‹öÊÊüÿÿÿÿ8¿òáâ¶.
+W
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(äŠÏş8Ü‘Ú·.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãßİøÿÿÿÿ8æ¬··.
+psquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÿïØ¥8ßÑèù¶.
+\
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ë’›ùÿÿÿÿ8¸¨Ï·.
+tsquid:S2068,"V'password' detected in this expression, review this potentially hard-coded credential.(‹³¹İ8Ã£ğâ¶.
+\
+squid:S106å"9Replace this use of System.out or System.err by a logger.(Ó”ìªûÿÿÿÿ8ê„”Œ·.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ßú—‹úÿÿÿÿ8‡öÚà¶.
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(À©ñ8ª»Óà¶.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¡›«8š†·.
+\
+squid:S106û"9Replace this use of System.out or System.err by a logger.( ¤„úÿÿÿÿ8æ¬··.
